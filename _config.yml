@@ -1,0 +1,28 @@
+name: SamJoyKaur
+favicon: null
+layout_spectrum: 0.6523757688701153
+typography_spectrum: 0.8898999036755413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.18897098023444414
+  lightness: 0.20272442139685154
+  saturation: 0.2275731402914971
+  rhythmicContrast: 0.43545697163790464
+purpose: []

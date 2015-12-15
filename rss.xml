@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SamJoyKaur]]></title>
-        <description><![CDATA[SamJoyKaur]]></description>
+        <title><![CDATA[Hello This Is Sam]]></title>
+        <description><![CDATA[Hello This Is Sam]]></description>
         <link>https://thegrid.ai/samjoykaur/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 18:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 16:37:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/samjoykaur/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sam's Homepage]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/samjoykaur/sams-homepage/index.html</link>
             <guid isPermaLink="false">cf52ba95-21ea-4635-845d-38307db90376</guid>
             <pubDate>Wed, 09 Dec 2015 18:47:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Black Forest Cake I Recipe]]></title>
+            <description><![CDATA[<article><h1>Black Forest Cake I Recipe</h1><p>This recipe delivers a classic version of the original Black Forest cake with whipped cream frosting and cherry toping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e890c418f0a1e3bba40095e183edce7349a4386a.jpg"></article>]]></description>
+            <link>http://allrecipes.com/video/1436/black-forest-cake-i/</link>
+            <guid isPermaLink="false">30c69342-e13f-4cd4-9059-f5b8e83ebe27</guid>
+            <pubDate>Tue, 15 Dec 2015 16:37:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
